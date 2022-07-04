@@ -1,0 +1,25 @@
+{
+  "name": "tut",
+  "version": "1.0.0",
+  "description": "I am new in node so i am learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Learning",
+    "from",
+    "code",
+    "step",
+    "by",
+    "step"
+  ],
+  "author": "Adil Ali",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "colors": "^1.4.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
