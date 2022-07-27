@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/adil-chetu/node-tuts/issues"
   },
-  "homepage": "https://github.com/adil-chetu/node-tuts#readme"
+  "homepage": "https://github.com/adil-chetu/node-tuts#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
